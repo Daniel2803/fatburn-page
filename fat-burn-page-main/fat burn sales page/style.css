@@ -1,0 +1,212 @@
+body{margin:0;font-family: 'Roboto', sans-serif;}
+p{margin:0;color:#595959;}
+h1{font-size: 140px;text-align: center;margin:0;}
+ul{padding-left: 0;font-size: 15px;}
+h3{color:#e86100;}
+h2{color:white;text-align: center;font-size: 36px;width:69%;padding-top:30px;margin-left:60px;font-weight: lighter;line-height: 0.9;}
+h5{color:#0099ff; margin-left: 350px;margin-bottom: 10px;font-size: 35px;margin-top:150px;}
+input {border-width: 1px;border-radius:3px;border-color: #cccccc;padding-bottom: 6px;padding-top: 8px;padding-right: 150px;margin:6px;margin-left: 30px;}
+.bar:hover {
+	color:#e86100;
+}
+.bar{height:70px;width: 100%;background-color: white;position: fixed;top:0;z-index: 2;}
+
+.headerbg {
+	background: url( 'https://d1xni650ukk93f.cloudfront.net/ketopremiere/english/beach-woman.jpg' )top center no-repeat;
+margin-top:50px;
+}
+.theproof {
+ background: url( 'https://d1xni650ukk93f.cloudfront.net/ketopremiere/english/7-day-bridge-ketosis-bg.jpg' )top center no-repeat;
+ margin-top:150px;
+}
+.third-background {
+	background: url( 'https://d1xni650ukk93f.cloudfront.net/ketopremiere/english/ketopia-ketosis-7day-bg.jpg' )top center no-repeat;
+  height: 900px;
+}
+.stayingKetosis {
+	background: url( 'https://d1xni650ukk93f.cloudfront.net/ketopremiere/english/7day-bridge-ketopia-ketosis-bg2.jpg' )top center no-repeat
+}
+.allnatural {
+	background: url( 'https://d1xni650ukk93f.cloudfront.net/ketopremiere/english/all-natural-ketopia-bg.jpg' )top center no-repeat;
+}
+.bottombg {
+	background: url( 'https://d1xni650ukk93f.cloudfront.net/ketopremiere/english/footerbg.jpg' )top center no-repeat;
+	margin-top: 100px;
+	padding-bottom: 100px;
+}
+.bar1{position: absolute;top:25px;right:580px;}
+.bar2{position: absolute;top:25px;right:480px;}
+.bar3{position: absolute;top:25px;right:350px;}
+.bar4{position: absolute;top:25px;right:220px;}
+.title-p{margin-left: 300px;}
+
+.sign-up{width:400px;height:750px;background-color:#0099ff;margin-left: 1073px;width: 411px;border-radius: 20px;}
+.box{background-color: white;height:600px;width: 400px;position: absolute;top: 365px;right: 184px;border-radius: 0 0 20px 20px;padding-top: 20px;}
+
+.sign-p{font-size: 12px;float: right;padding-top: 7px;width: 350px;}
+
+.middle-p{font-size: 30px;width:36%;text-align: center;position: absolute;top: 910px;left: 370px;font-weight: 100;}
+.orange-middle-p{margin-left: 350px;color: orange;}
+.middle-p2{margin-left: 350px;width:35%;margin-top:10px;font-size: 15px;}
+
+.link-p{width:35%;margin-top: 10px;margin-left: 350px;color:black;font-size: 15px;}
+.proof-p{font-size:40px;text-align: center;width:30.4%;margin-left: 900px;color:black}
+
+.fat-for-energy{color:#e86100;}
+
+.nation{color: #e86100;}
+
+.work-h3{color:black;font-size: 27px;font-weight: 100;}
+.middle-p-color{font-weight: bold;}
+
+.keto-works{color:#e86100;}
+.pics-p{width: 35%;text-align: center;margin-left: 900px;margin-top: 20px;font-size: 12px;}
+
+.middle-h1{font-size:50px;text-align: center;margin-bottom:0;}
+.ketosis-p{font-size:30px;text-align: center;}
+
+.top-ul{padding-left: 40px;}
+
+.keto{width:40%;position: absolute;top: 3100px;right: 200px;width:30%;}
+.diet{width:30%;margin:50px 0 0 300px;}
+.diet-2{margin-top:30px;}
+.bottom-h3{text-align:center;font-size: 30px;font-weight: 100;margin-bottom: 0;margin-top:200px;color:black;}
+.bottom-h3-2{text-align:center;color:#e86100;font-size: 35px;margin-top: 10px;}
+
+.secure{font-size: 12px;text-align: center;margin-top: 4px;}
+.keto-premiere{width: 50%;margin-left: 530px;color:#404040;}
+.burn-h3{color: white;font-size: 37px;position: absolute;top: 4040px;left: 550px;}
+
+
+.myButton {
+  margin:40px 0 0 75px;
+		background:linear-gradient(to bottom, #ff0000 5%, #a81212 100%);
+		background-color:#ff0000;
+		border-radius:8px;
+		border:1px solid #000000;
+		display:inline-block;
+		cursor:pointer;
+		color:#ffffff;
+		font-family:Arial;
+		font-size:25px;
+		font-weight:bold;
+		padding:25px 14px;
+		text-decoration:none;
+	}
+	.myButton:hover {
+		background:linear-gradient(to bottom, #a81212 5%, #ff0000 100%);
+		background-color:#a81212;
+	}
+	.myButton:active {
+		position:relative;
+		top:1px;
+	}
+
+.bottom-h1{text-align: center;font-size: 50px;margin-bottom: 10px;}
+.bottom-p{text-align: center;font-size: 30px;font-weight: 100;}
+.bottom-h6{font-size: 30px; color:#e86100; margin-top: 5px;margin-left: 530px;}
+.p-p{margin-bottom: 10px;color:#737373}
+
+.myButton1 {
+  margin-left: 200px;
+  margin-bottom: 50px;
+  text-align: center;
+  margin-top:80px;
+	background-color:#e86100;
+	border-radius:10px;
+	border:1px solid #e86100;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:31px;
+	font-weight:bold;
+	padding:17px 43px;
+	text-decoration:none;
+}
+.myButton1:hover {
+	background-color:#e86100;
+}
+.myButton1:active {
+	position:relative;
+	top:1px;
+}
+.myButton2 {
+    margin-top: 1000px;
+    margin-left: 730px;
+  margin-bottom: 50px;
+  text-align: center;
+	background-color:#e86100;
+	border-radius:10px;
+	border:1px solid #e86100;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:31px;
+	font-weight:bold;
+	padding:17px 43px;
+	text-decoration:none;
+}
+.myButton2:hover {
+	background-color:#e86100;
+}
+.myButton2:active {
+	position:relative;
+	top:1px;
+}
+.myButton3 {
+    margin-left: 600px;
+		margin-top: 70px;
+  margin-bottom: 50px;
+  text-align: center;
+	background-color:#e86100;
+	border-radius:10px;
+	border:1px solid #e86100;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:31px;
+	font-weight:bold;
+	padding:17px 43px;
+	text-decoration:none;
+}
+.myButton3:hover {
+	background-color:#e86100;
+}
+.myButton3:active {
+	position:relative;
+	top:1px;
+}
+.week-16{text-align: center;width:70%;margin-left: 300px;}
+.invited-16-h3{font-size: 37px;color: black;}
+.invited-16-h3-2{font-size: 30px;color:#e86100;font-weight:100; }
+.flex{width:32%;position: absolute;left:400px;top: 6270px;}
+.step{width:32%;position: absolute;left: 950px;top: 6270px;}
+.daily{width:32%;position: absolute;top: 6750px;left:400px;}
+.bullet{width:32%;position: absolute;top: 6750px;left:950px;}
+
+.plans-4{margin-bottom: 10px;margin-top: 20px;color: #e86100;font-weight: 100;font-size: 25px;padding-left: 100px;}
+.plans-4-b{margin-top: 20px;margin-bottom: 10px;color: #e86100;font-weight: 100;font-size: 25px;padding-left: 70px;}
+
+.both-keto-h3-1{color: white;font-size: 38px;font-weight: 100;text-align: center;margin:0;padding-top: 300px;}
+.both-keto-h3-2{color: white;font-size: 38px;font-weight: 100;text-align: center;margin:0;padding-bottom: 300px;}
+
+.keto-product-bottom-p{font-size: 11px; text-align: center;width:20%;position: absolute;top: 8900px;left: 1150px;}
+
+.product-h3{font-size: 30px;margin-bottom: 10px;}
+.top-product{margin-left: 300px;width:49%;font-size: 15px;}
+.top-product-p{padding-bottom: 10px; font-weight: bold;color:black;}
+.keto-friendly{width:49%;font-size: 15px;margin-left: 300px;margin-top:65px;}
+.keto-friendly-h3{font-size: 27px;margin-bottom: 8px;}
+.tips-for-success{width: 49%;margin-left: 300px;font-size: 15px;}
+.product-p{padding-top: 10px;}
+
+
+.text{text-align: center;font-size: 30px;font-weight: 100;margin-top: 0;}
+.text-h1{text-align: center;font-size: 50px;margin-bottom: 5px;}
+
+.footer{width: 53%;text-align: center;font-size: 12px;line-height: 1.5;margin:60px 0 0 400px;}
+.footer-p{margin-top:8px;}
+.footer-p-bottom{margin-top:50px;}
